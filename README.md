@@ -9,5 +9,5 @@ node ./src/createWallet.js
 
 ```
 
--> Contact-me: zanelallopes9977@gmail.com
+-> Contact: zanelallopes9977@gmail.com
 👋 
